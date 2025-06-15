@@ -70,7 +70,7 @@ Your mood entries are stored in `mood_data.json`, and look like this:
 ---
 
 ## 📝 License
-MIT © [kaiisherebbg](https://github.com/kaiisherebbg)
+MIT © [kai](https://github.com/kaicodeswell)
 
 ---
 
