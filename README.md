@@ -19,7 +19,7 @@ Deyra is a beautifully simple, emoji-enhanced terminal app built with Python tha
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kaiisherebbg/deyra
+git clone https://github.com/kaicodeswell/deyra
 cd deyra
 ```
 
